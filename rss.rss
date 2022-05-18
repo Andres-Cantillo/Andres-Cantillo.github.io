@@ -3,16 +3,16 @@
 <channel>
 <title>Página de Andrés Cantillo</title>
 <link>https://andres-cantillo.github.io/index.html</link>
-<description>Pá;gina principal repositorio Andrés Cantillo Jiménez</description>
+<description>Página principal repositorio Andrés Cantillo Jiménez</description>
 <item>
     <title>Cordoba Patrimonio</title>
     <link>https://andres-cantillo.github.io/Unidades/Cordoba/index.html</link>
-    <description>Pá;gina turistica con información sobre Córdoba</description> 
+    <description>Página turistica con información sobre Córdoba</description> 
 </item>
 <item>
     <title>Recetas de la abuela</title>
     <link>https://andres-cantillo.github.io/Unidades/LasRecetasChusteras/index.html</link>
-    <description>Pá;gina de recetas caseras de nuestros chefs</description> 
+    <description>Página de recetas caseras de nuestros chefs</description> 
 </item>
 </channel>
 </rss>
